@@ -4,9 +4,9 @@
 **AnubhavSrivastavaGithub/AnubhavSrivastavaGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="center">
-	<a> <strong> Hi there, I amk Anubhav Srivastava </strong></a>
+	<a> <strong> Hi there, I am Anubhav Srivastava </strong></a>
 </p>
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub/&theme=blue-green&show_icons=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
