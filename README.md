@@ -10,10 +10,7 @@ This is **Anubhav Srivastava**
 - ⚡ Fun fact: *I love Sci-fi*
 
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff;)<a href="https://https://github.com/AnubhavSrivastavaGithub">
-
-
-<a href="https://github.com/AnubhavSrivastavaGithub"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavSrivastavaGithub&layout=default&bg_color=20,ff80ff,004de6&title_color=fff&text_color=fff&icon_color=fff"/></a>
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff;)<a href="https://https://github.com/AnubhavSrivastavaGithub"><a href="https://github.com/AnubhavSrivastavaGithub">  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavSrivastavaGithub&layout=default&bg_color=20,ff80ff,004de6&title_color=fff&text_color=fff&icon_color=fff"/></a>
 
 
 <!--
