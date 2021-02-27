@@ -11,9 +11,9 @@ This is **Anubhav Srivastava**
 - ⚡ Fun fact: ...
 
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub&count_private=true&show_icons=true&theme=)<a href="https://https://github.com/AnubhavSrivastavaGithub">
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub&count_private=true&show_icons=true&theme=)<a href="https://https://github.com/AnubhavSrivastavaGithub">
-	
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub&count_private=true&show_icons=true&theme=chartreuse-dark)<a href="https://https://github.com/AnubhavSrivastavaGithub">
+
+
 <a href="https://github.com/AnubhavSrivastavaGithub"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavSrivastavaGithub&layout=compact&theme=chartreuse-dark"/></a>
 <!--
 **AnubhavSrivastavaGithub/AnubhavSrivastavaGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
