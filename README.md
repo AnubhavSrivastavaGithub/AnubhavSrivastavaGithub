@@ -5,7 +5,7 @@
 This is **Anubhav Srivastava**
 
 - 🔭 I’m currently working on -- **Improving my Skills**
-- 🌱 I’m currently learning -- **Machine Learning & Web Development**
+- 🌱 I’m currently learning -- **Web Development**
 - 👯 I’m looking to collaborate on Interesting Projects
 - 💬 Ask me about -- **Anything**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/anubhav-srivastava-257681158/">LinkedIn</a> or <a href="mailto:anubhavsrivastava181@gmail.com">Email</a>
