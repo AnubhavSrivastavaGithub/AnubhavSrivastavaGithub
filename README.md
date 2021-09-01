@@ -36,6 +36,10 @@ This is **Anubhav Srivastava**
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <!-- VSCODE-->
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code_ozwVHSV.png" alt="xd" width="40" height="40"/> </a> 
+<!-- VIM-->
+<a href="https://www.vim.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/800px-Vimlogo.svg.png" alt="xd" width="40" height="40"/> </a>
+<!-- BASH-->
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png" alt="xd" width="40" height="40"/> </a>
 <!-- UBUNTU-->
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/285px-Logo-ubuntu_cof-orange-hex.svg.png" alt="xd" width="40" height="40"/> </a> </p>
 
