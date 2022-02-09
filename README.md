@@ -53,10 +53,8 @@ This is **Anubhav Srivastava**
 
 ***
 <!-- This Section has the github Stats and language Cards-->
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub&show_icons=true&include_all_commits=true&bg_color=10,36d1dc,4568dc&title_color=fff&text_color=fff&icon_color=fff;) <a href="https://https://github.com/AnubhavSrivastavaGithub"><a href="https://github.com/AnubhavSrivastavaGithub"><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavSrivastavaGithub&langs_count=6&layout=compact&bg_color=10,36d1dc,4568dc&title_color=fff&text_color=fff&icon_color=fff"/></a>
-
-  
+<h3 align="center">My Github Stats:</h3>
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub&show_icons=true&include_all_commits=true&theme=chartreuse-dark&;) <a href="https://https://github.com/AnubhavSrivastavaGithub">
   
 <!--
 **AnubhavSrivastavaGithub/AnubhavSrivastavaGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
