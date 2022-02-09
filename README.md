@@ -56,9 +56,7 @@ This is **Anubhav Srivastava**
 <h3 align="center">My Github Stats:</h3>
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub&show_icons=true&include_all_commits=true&theme=chartreuse-dark&;) <a href="https://https://github.com/AnubhavSrivastavaGithub">
- 
-<!--
-**AnubhavSrivastavaGithub/AnubhavSrivastavaGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ***
 
 Here are some ideas to get you started:
