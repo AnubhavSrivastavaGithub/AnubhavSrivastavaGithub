@@ -6,7 +6,7 @@
 
 This is **Anubhav Srivastava**
 
-- 🔭 I’m currently working on -- **Improving my Skills**
+- 🔭 I’m currently working on -- **Exciting Projects**
 - 🌱 I’m currently learning -- **Web Development (M.E.R.N Stack)**
 - 👯 I’m looking to collaborate on Interesting Projects
 - 💬 Ask me about -- **Anything**
