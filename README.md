@@ -56,7 +56,7 @@ This is **Anubhav Srivastava**
 <!-- This Section has the github Stats and language Cards-->
 <h3 align="center">My Github Stats:</h3>
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub&show_icons=true&include_all_commits=true&theme=chartreuse-dark&;) <a href="https://https://github.com/AnubhavSrivastavaGithub"> <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnubhavSrivastavaGithub" />
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub&show_icons=true&include_all_commits=true&theme=chartreuse-dark&;) <a href="https://https://github.com/AnubhavSrivastavaGithub">
   
 
 ***
