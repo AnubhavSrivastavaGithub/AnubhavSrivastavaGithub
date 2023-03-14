@@ -6,13 +6,13 @@
 
 This is **Anubhav Srivastava**
 
-- 🔭 I’m currently working on: **Backend**
-- 🌱 I’m currently learning: **Web Development, System Design**
+- 🔭 I’m currently working on > **Backend**
+- 🌱 I’m currently learning  > **Web Development, System Design**
 - 👯 I’m looking to collaborate on Interesting Projects
-- 💬 Ask me about: **Tech Stuff**
-- 📖 Socials: <a href="[https://thecodecaveofficial.hashnode.dev/](https://linktr.ee/anubhavsrivastava)">Linktree</a>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/anubhav-srivastava-257681158/">LinkedIn</a> or <a href="mailto:anubhavsrivastava181@gmail.com">Email</a>
-- ⚡ Fun fact: *I love Sci-fi*
+- 💬 Ask me about  > **Tech Stuff**
+- 📖 Socials  > <a href="https://linktr.ee/anubhavsrivastava">Linktree</a>
+- 📫 How to reach me > <a href="https://www.linkedin.com/in/anubhav-srivastava-257681158/">LinkedIn</a> or <a href="mailto:anubhavsrivastava181@gmail.com">Email</a>
+- ⚡ Fun fact  > *I love Sci-fi*
 
 ***
 <!-- This section has The Languages and Tools-->
@@ -56,7 +56,6 @@ This is **Anubhav Srivastava**
 <!-- This Section has the github Stats and language Cards-->
 <h3 align="center">My Github Stats:</h3>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AnubhavSrivastavaGithub?cardType=octocat&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-  
+![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub&show_icons=true&theme=github_dark)
 
 ***
