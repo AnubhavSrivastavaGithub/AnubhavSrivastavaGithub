@@ -6,11 +6,11 @@
 
 This is **Anubhav Srivastava**
 
-- 🔭 I’m currently working on -- **Backend**
+- 🔭 I’m currently working on: **Backend**
 - 🌱 I’m currently learning: **Web Development, System Design**
 - 👯 I’m looking to collaborate on Interesting Projects
 - 💬 Ask me about: **Tech Stuff**
-- 📖 Visit my Hashnode Blog - <a href="https://thecodecaveofficial.hashnode.dev/">Blog</a>
+- 📖 Socials: <a href="[https://thecodecaveofficial.hashnode.dev/](https://linktr.ee/anubhavsrivastava)">Linktree</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/anubhav-srivastava-257681158/">LinkedIn</a> or <a href="mailto:anubhavsrivastava181@gmail.com">Email</a>
 - ⚡ Fun fact: *I love Sci-fi*
 
