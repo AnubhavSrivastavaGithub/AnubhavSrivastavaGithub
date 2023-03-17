@@ -20,23 +20,21 @@ This is **Anubhav Srivastava**
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <!-- C++-->
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://user-images.githubusercontent.com/50038824/225956001-322fcb05-0c2f-45d4-9393-91f60afb8456.png" alt="cplusplus" width="40" height="40"/></a>
 <!-- Python-->
-<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://user-images.githubusercontent.com/50038824/225956761-e57dfdfe-5da8-4786-96b4-62e79a3f3e51.png" alt="python" width="40" height="40"/> </a> 
 <!-- HTML-->
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://user-images.githubusercontent.com/50038824/225957303-2836ebb2-4d20-43a0-9cd5-b721404eb1f7.png" alt="html5" width="40" height="40"/> </a> 
 <!-- CSS-->
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://user-images.githubusercontent.com/50038824/225957584-cb56f882-36da-4c02-95ed-0a938eb75d4c.png" alt="css3" width="40" height="40"/> </a>
 <!-- BOOTSTRAP-->
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/50038824/225957790-f4e65461-9b90-4342-8582-e8aa60d3862e.png" alt="bootstrap" width="40" height="40"/> </a>
 <!-- JS-->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <!-- JQuery-->
-<a href="https://jquery.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/50038824/225958056-f61c5721-e1bc-4a9f-a5db-de01fd4223c4.png" alt="javascript" width="40" height="40"/> </a>
 <!-- NODEJS-->
-<a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://user-images.githubusercontent.com/50038824/225958561-ba535309-b562-49cb-b423-d96332c4be52.png" alt="nodejs" width="40" height="40"/> </a>
 <!-- REACTJS-->
-<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
   <!-- NPM-->
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="react" width="40" height="40"/> </a> 
 <!-- GIT-->
