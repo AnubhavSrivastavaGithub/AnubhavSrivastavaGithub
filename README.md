@@ -53,7 +53,9 @@ This is **Anubhav Srivastava**
 ***
 <!-- This Section has the github Stats and language Cards-->
 <h3 align="center">My Github Stats:</h3>
-
-![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub&show_icons=true&theme=github_dark)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub&show_icons=true&count_private=true&theme=github_dark&hide_border=true&border_radius=20&include_all_commits=true" alt="My stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavSrivastavaGithub&langs_count=6&theme=github_dark&hide_border=true&border_radius=20" alt="My stats" />
+</p>
 
 ***
