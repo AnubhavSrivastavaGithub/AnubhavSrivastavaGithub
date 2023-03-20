@@ -55,7 +55,7 @@ This is **Anubhav Srivastava**
 <h3 align="center">My Github Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnubhavSrivastavaGithub&show_icons=true&count_private=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true" alt="My stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavSrivastavaGithub&langs_count=6&theme=github_dark&hide_border=true&border_radius=10" alt="My stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavSrivastavaGithub&langs_count=6&theme=github_dark&hide_border=true&border_radius=10&layout=compact" alt="My stats" />
 </p>
 
 ***
