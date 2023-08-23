@@ -6,13 +6,13 @@
 
 This is **Anubhav Srivastava**
 
-- 🔭 I’m currently working on > **Backend**
-- 🌱 I’m currently learning  > **Web Development, System Design**
-- 👯 I’m looking to collaborate on Interesting Projects
-- 💬 Ask me about  > **Tech Stuff**
+- 🔭 I’m currently working as a > **Software Engineer**
+- 🌱 I’m currently learning  > **Backend Development, System Design**
+- 👯 I’m looking to collaborate on Open-Source Projects
+- 💬 Ask me about > **Tech Stuff**
 - 📖 Socials  > <a href="https://linktr.ee/anubhavsrivastava">Linktree</a>
 - 📫 How to reach me > <a href="https://www.linkedin.com/in/anubhav-srivastava-257681158/">LinkedIn</a> or <a href="mailto:anubhavsrivastava181@gmail.com">Email</a>
-- ⚡ Fun fact  > *I love Sci-fi*
+- ⚡ Fun fact  > *I love to watch Sci-fi*
 
 ***
 <!-- This section has The Languages and Tools-->
