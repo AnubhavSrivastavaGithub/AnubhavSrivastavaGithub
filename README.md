@@ -6,7 +6,7 @@
 
 This is **Anubhav Srivastava**
 
-- 🔭 I’m currently working as a > **Software Engineer**
+- 🔭 I’m currently working as a **Software Engineer**
 - 🌱 I’m currently learning  > **Backend Development, System Design**
 - 👯 I’m looking to collaborate on Open-Source Projects
 - 💬 Ask me about > **Tech Stuff**
@@ -19,6 +19,8 @@ This is **Anubhav Srivastava**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+<!-- Java-->
+<a href="http://oracle.com/java/" target="_blank"> <img src="https://github.com/AnubhavSrivastavaGithub/AnubhavSrivastavaGithub/assets/50038824/ec11df7f-023e-4a1e-a6c7-7caff66a00ec" alt="java" width="45" height="45"/> </a>
 <!-- JS-->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/50038824/225958056-f61c5721-e1bc-4a9f-a5db-de01fd4223c4.png" alt="javascript" width="40" height="40"/> </a>
 <!-- NODEJS-->
